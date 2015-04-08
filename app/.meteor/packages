@@ -17,3 +17,9 @@ accounts-ui
 kaoskeya:admin
 kaoskeya:accounts-admin-ui-bootstrap-3
 alanning:roles
+chrismbeckett:toastr
+reywood:publish-composite
+tmeasday:publish-counts
+fortawesome:fontawesome
+reactive-dict
+momentjs:moment
